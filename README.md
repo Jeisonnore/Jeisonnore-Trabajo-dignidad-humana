@@ -27,7 +27,7 @@ Este proyecto es una presentación en formato web desarrollada como parte del tr
 
 Puedes acceder al documento completo con todos los detalles, referencias y análisis en formato PDF:
 
-➡️ [Descargar trabajo completo](trabajo_precarizacion_dignidad.pdf)
+➡️ [Descargar trabajo completo](Trabajo_precarizacion_dignidad.pdf)
 
 ## 🖼️ Vista previa
 
